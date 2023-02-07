@@ -1,3 +1,2 @@
 # Dotfiles
-This is my Dotfiles from my dev environment
-Enjoyy !!!
+Levvonci's dotfiles for his developer environment
