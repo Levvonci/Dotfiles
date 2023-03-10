@@ -1,0 +1,10 @@
+_HiStOrY_V2_
+parent(anne,\040bill).
+parent(dario,\040pino).
+parent(anne,\040billi)\012parent(anne,\040billi).
+schema(A1,\040A2,\040A3,\040A4,\040A5,\012\040\040\040\040\040\040\040B1,\040B3,\040B5,\012\040\040\040\040\040\040\040C1,\040C2,\040C3,\040C4,\040C5,\040C6,\012\040\040\040\040\040\040\040D1,\040D5).
+path(b,X).
+path(a,d)\012edge(a,b).
+['/Università/LMP/prolog_script/esercizio_grafo.pl'].
+['/Users/lvnc/Università/LMP/prolog_script/esercizio_grafo.pl'].
+path(b,X).
